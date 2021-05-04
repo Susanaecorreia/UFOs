@@ -16,6 +16,9 @@ Once entering the website the person will see the basic opening and title with t
 
 Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
 
-The page allows the user to filter through the different sightings in our data set using the search bars created. One big drawback about our search bar is trying to validate the sightings that happened which can be better described in the data. If we had how many people were at the sighting would be a helpful element to validating the claims. Having as much data as possible for website would make it as good as it can possible be. My two recommendations for improving this website would 1. to have more data that has more information including how many people were at the site 2. adding another filter to find the sitings by lengt and last but not least have a site that would be constantly updating our data adding new sitings to our page.
+The page allows the user to filter through the different sightings using the search bars created. A drawback is that the data is missing the number of people who were at the sighting. If we had how many people were at the sighting would be a helpful element to validating the claims. My two recommendations for improving this website would be:
+
+     - To have the number of people who were at the sighting;
+     - To make the search bar more effective and more professional.
 
 
